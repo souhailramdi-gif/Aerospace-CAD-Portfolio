@@ -16,7 +16,7 @@ Developed a 3D jet engine model in Siemens NX from a side-profile sketch. The ma
 Designed a gearbox in Siemens NX and carried out engineering calculations to determine appropriate relative gear sizes before modelling the components.
 
 ### Planetary Gearbox
-Developed a planetary gearbox CAD model in Siemens NX, focusing on component arrangement and mechanical assembly.
+An almost-completed planetary gearbox CAD project developed in Siemens NX. The overall assembly is being refined, with ongoing work focused on improving and finalising the gear teeth geometry.
 
 ### Robotic Arm
 An ongoing Siemens NX robotic arm design project. The current design is not final and is being iteratively improved, with further development planned to refine the geometry, functionality and overall design.
